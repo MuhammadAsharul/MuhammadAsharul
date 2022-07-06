@@ -29,8 +29,10 @@
 <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="Pycharm"/></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<a href="https://www.reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-FCC624?style=for-the-badge&logo=react&logoColor=black" alt="linux"/> </a>
-<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-F80000?style=for-the-badge&logo=javascript&logoColor=black" alt="oracle"/> </a>
+<a href="https://www.reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-FCC624?style=for-the-badge&logo=react&logoColor=black" alt="react"/> </a>
+<a href="https://www.javascript.com/" target="_blank"> <img src="https://img.shields.io/badge/Javascript-F80000?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/> </a>
+ <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.shields.io/badge/Sass-F80000?style=for-the-badge&logo=sass&logoColor=black" alt="sass"/> </a>
+ <a href="https://www.tailwindcss.com/" target="_blank"> <img src="https://img.shields.io/badge/tailwindcss-F80000?style=for-the-badge&logo=tailwindcss&logoColor=black" alt="tailwindcss"/> </a>
 
 <br><br><br><br>
  

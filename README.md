@@ -40,3 +40,8 @@
 <a href="https://pytorch.org/" target="_blank"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch"/> </a>
 <a href="https://scikit-learn.org/" target="_blank"> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn"/> </a>
 <a href="https://www.tensorflow.org" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a>
+<br><br><br><br>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAsharul&show_icons=true&locale=en&layout=compact" alt="MuhammadAsharul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAsharul&count_private=true&show_icons=true" alt="MuhammadAsharul" width="410" /></p>

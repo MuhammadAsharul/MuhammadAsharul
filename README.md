@@ -1,3 +1,6 @@
+<div align="center">
+<img width="" height = "" src="https://miro.medium.com/max/1444/1*Z5-lWkyzcRB5ahgm9qyxvg.png" alt="cover" />
+</div>
 <h1 align="center">Hi 👋, I'm Muhammad Asharul Maali</h1>
 <h3 align="center">Student at Muhammadiyah University of Surakarta, Indonesia🌟.</h3>
 

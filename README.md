@@ -11,7 +11,9 @@
 🎓 Computer Science graduate | Lifelong learner | Coding Enthusiast<br/>
 .<br/>
 🚧 Building the future: Crafting elegant solutions to real-world problems.<br/>
-🔗 Let's connect: [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/muhammad-asharul-maali/)) | [Twitter]([https://twitter.com/username](https://twitter.com/yuuichiase))<br/>
+📫 Let's connect and collaborate:
+   - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/muhammad-asharul-maali/)
+   - Twitter: [@yourtwitterhandle](https://twitter.com/yuuichiase)<br/>
 .<br/>
 🎮 Fun Fact: Coding fuel includes coffee ☕ and the occasional cat GIF 🐱.<br/>
 .<br/>

@@ -1,22 +1,17 @@
 🚀 Hello World! I'm Asharul 👋
 🌍 Exploring the digital universe one commit at a time. <br/>
 . <br/>
+
+💻 Software Engineer | UI/UX Designer | Gaming 😂<br/>
+🔧 Tech Stack: PHP, JavaScript, React, Node.js, Laravel<br/>
+📘 Currently diving deep into web development.<br/><br/>
 .<br/>
-.<br/>
-💻 Software Engineer | UI/UX Designer | Gaming 😂
-🔧 Tech Stack: PHP, JavaScript, React, Node.js, Laravel
-📘 Currently diving deep into web development.<br/>
-.<br/>
-.<br/>
-.<br/>
-🌱 Learning never stops: Always hungry for new technologies and challenges.
+
+🌱 Learning never stops: Always hungry for new technologies and challenges.<br/>
 🎓 Computer Science graduate | Lifelong learner | Coding Enthusiast<br/>
-.<br/>
-.<br/>
 .<br/>
 🚧 Building the future: Crafting elegant solutions to real-world problems.<br/>
 🔗 Let's connect: [LinkedIn]([https://www.linkedin.com/in/username](https://www.linkedin.com/in/muhammad-asharul-maali/)) | [Twitter]([https://twitter.com/username](https://twitter.com/yuuichiase))<br/>
-.<br/>
 .<br/>
 🎮 Fun Fact: Coding fuel includes coffee ☕ and the occasional cat GIF 🐱.<br/>
 .<br/>

@@ -14,9 +14,7 @@
 🎮 Fun Fact: Coding fuel includes coffee ☕ and the occasional cat GIF 🐱.
 
 📈 GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAsharul&show_icons=true&locale=en&layout=compact" alt="MuhammadAsharul" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammadAsharul&count_private=true&show_icons=true" alt="MuhammadAsharul" width="410" /></p>
 🌟 Open source advocate: Contributing to make the world of code a better place.
 
